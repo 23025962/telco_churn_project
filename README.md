@@ -4,7 +4,7 @@ This project predicts whether a telecommunications customer is likely to churn u
 
 Dataset
 IBM Telco Customer Churn Dataset
-7,043 customer records
+7,043 customer records with
 33 customer and service-related features
 
 Tools & Technologies
